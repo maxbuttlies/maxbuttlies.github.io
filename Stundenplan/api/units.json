@@ -1,0 +1,28 @@
+{
+	"deutschgk1": 
+	{ 		
+		"room": "B202",
+		"display_name": "GK Deutsch 1"
+		},
+		"biologiegk1": {
+			"room": "A204",
+			"display_name": "GK Biologie"
+			},
+			"mathelk1": {
+				"room": "A404",
+				"display_name": "LK Mathematik 1"
+				},
+				"geschichtegk1": {
+					"room": "B309",
+					"display_name": "GK Geschichte 1"
+				},
+				"englischlk1": {
+					"room": "B309",
+					"display_name": "LK Englisch"
+				},
+				"informatikgk1": {
+					"room": "B106",
+					"display_name": "GK Informatik"
+				}
+  
+			}
