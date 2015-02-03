@@ -20,7 +20,7 @@
 				"id": "5",
 				"name": "Freitag", 
 				"week": "A",
-				"lessons": [ {"0": "mathelk1"},{"1": "mathelk1"},{"2": "deutschgk1"},{"3": "informatikgk1"},{"4": "informatikgk1"},{"5": "informatikgk1"},]	
+				"lessons": [ {"0": "mathelk1"},{"1": "mathelk1"},{"2": "deutschgk1"},{"3": "informatikgk1"},{"4": "informatikgk1"},{"5": "informatikgk1"}]	
 				},
 				{
 					"id": "5",
