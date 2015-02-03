@@ -1,7 +1,7 @@
 {
 	"deutschgk1": 
 	{ 		
-		"room": "B202",
+		"room": "B203",
 		"display_name": "GK Deutsch 1"
 		},
 		"biologiegk1": {
@@ -9,7 +9,7 @@
 			"display_name": "GK Biologie"
 			},
 			"mathelk1": {
-				"room": "A404",
+				"room": "A402",
 				"display_name": "LK Mathematik 1"
 				},
 				"geschichtegk1": {
