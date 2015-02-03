@@ -13,20 +13,20 @@
 			"id": "2",
 			"name": "Dienstag",
 			"week": "B", 
-			"lessons": [{"5": "biologiegk1"},{"4": "biologiegk1"}, {"3": "englischlk1"}, {"2": "englischlk1"}, {"1": "englischlk1"}]	
+			"lessons": [{"1": "englischlk1"}, {"2": "englischlk1"}, {"3": "englischlk1"},{"4": "biologiegk1"},{"5": "biologiegk1"}]	
 			},
 
 			{
 				"id": "5",
 				"name": "Freitag", 
 				"week": "A",
-				"lessons": [{"5": "informatikgk1"},{"4": "informatikgk1"},{"3": "informatikgk1"}, {"2": "deutschgk1"},{"1": "mathelk1"},{"0": "mathelk1"}]	
+				"lessons": [ {"0": "mathelk1"},{"1": "mathelk1"},{"2": "deutschgk1"},{"3": "informatikgk1"},{"4": "informatikgk1"},{"5": "informatikgk1"},]	
 				},
 				{
 					"id": "5",
 					"name": "Freitag",
 					"week": "B", 
-				"lessons": [ {"5": "deutschgk1"},{"4": "deutschgk1"},{"3": "mathelk1"},{"2": "mathelk1"},{"1": "mathelk1"}]	
+				"lessons": [ {"1": "mathelk1"},{"2": "mathelk1"},{"3": "mathelk1"},{"4": "deutschgk1"},{"5": "deutschgk1"}]	
 				}
 
 				]
